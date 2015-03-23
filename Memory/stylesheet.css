@@ -18,11 +18,11 @@ h1 {
 }
 p {
   text-align: center;
-  opacity: 1;
+  opacity: 0;
   width: 50px;
 }
 #clear {
-  opacity: 1;0
+  opacity: 1;
   width: 120px;
   margin: 0 auto;
   border: 1px;
@@ -30,4 +30,7 @@ p {
 }
 .correct {
   font-weight: bold;
+}
+body{
+  background-color: #8C190D; 
 }
